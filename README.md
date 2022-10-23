@@ -1,4 +1,4 @@
-<h1>Merhaba Ben Oğuzhan</h1>
+<center> <h1>Merhaba Ben Oğuzhan</h1> </center>
 
 
 - 👨🏻‍💻 Software Developer
