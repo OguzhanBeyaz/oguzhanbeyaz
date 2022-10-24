@@ -3,8 +3,8 @@
 
 - 👨🏻‍💻 Software Developer
 - 💻 Yazılımcı; Kahveyi Koda Çeviren Organizma
+- 🖥 Kodladıkça Öğreniyorum
 - 🎸 Gitarist
-- 📫 How to reach me ...
 - 📌 Kastamonu
 
 <!---
