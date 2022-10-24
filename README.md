@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Merhaba Ben Oğuzhan</h1>
+<h1 style="text-align: center">Merhaba Ben Oğuzhan 👋🏻</h1>
 
 
 - 👨🏻‍💻 Software Developer
