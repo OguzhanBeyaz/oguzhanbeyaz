@@ -1,4 +1,4 @@
-<h1><center>Merhaba Ben Oğuzhan</center></h1>
+<h1 style="text-align: center">Bir Deli Yazılımcı</h1>
 
 
 - 👨🏻‍💻 Software Developer
