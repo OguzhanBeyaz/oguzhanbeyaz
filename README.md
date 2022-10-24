@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Merhaba👋 Ben Oğuzhan🏻</h1>
+<h1 style="text-align: center">Merhaba👋 Ben Oğuzhan</h1>
 
 Lisede Bilişim Teknolojileri bölümü Web Tasarım alanını okudum daha sonrasında Kastamonu Üniversitesinde Bilgisayar Programcılığı bölümünden mezun oldum. Her zaman kendimi geliştirmeye ve yenilemeye çalışıyorum. Araştırmayı seven bir kişiliğim var, elimden geldiğince ufaklı büyüklü projeler geliştirerek kendime bir şeyler katmaya çalışıyorum. www.oguzhanbeyaz.com web sitesini oluşturdum bu sitede edindiğim bilgileri ve yaptığım projelerimide paylaşıyorum.
 
