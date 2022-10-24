@@ -1,11 +1,11 @@
-<h1 style="text-align: center">Bir Deli Yazılımcı</h1>
+<h1 style="text-align: center">Merhaba Ben Oğuzhan</h1>
 
 
 - 👨🏻‍💻 Software Developer
 - 💻 Yazılımcı; Kahveyi Koda Çeviren Organizma
-- 📌 Kastamonu
-- 💞️ I’m looking to collaborate on ...
+- 🎸 Gitarist
 - 📫 How to reach me ...
+- 📌 Kastamonu
 
 <!---
 oguzhanbeyaz/oguzhanbeyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
