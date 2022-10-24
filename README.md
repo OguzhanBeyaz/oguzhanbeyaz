@@ -4,7 +4,7 @@ Lisede Bilişim Teknolojileri bölümü Web Tasarım alanını okudum daha sonra
 
 - 👨🏻‍💻 Software Developer
 - 💻 Yazılımcı; Kahveyi Koda Çeviren Organizma
-- 🖥 Kodladıkça Öğreniyorum
+- 🖥 Kodladıkça Öğreniyorum Öğrendikçe Kodluyorum
 - 🎸 Gitarist
 - 📌 Kastamonu
 
