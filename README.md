@@ -10,7 +10,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 🎸 Guitarist
 - 📌 Kastamonu
 
-<p align="center" style="margin-top: -30px">
+<p align="center" style="margin-top: 100px">
  <a href="https://www.linkedin.com/in/oğuzhan-beyaz-150ba21a1/" style="margin-top: -30px"><img width="250" src="https://user-images.githubusercontent.com/56650405/197894461-612b4a42-93c9-42a0-9466-4bd204766f1e.png" alt="Material Bread logo"></a>
 </p>
 <p align="center">
