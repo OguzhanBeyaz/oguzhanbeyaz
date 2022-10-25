@@ -8,7 +8,8 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 💻 Programmer; The Organism That Turns Coffee Into Code
 - 🖥 I Learn As I Code I Code As I Learn
 - 🎸 Guitarist
-- 📌 Kastamonu
+- 📌 Kastamonu 
+
 
 
 <p align="center">
@@ -17,6 +18,10 @@ I studied Information Technologies in High School, Web Design and then graduated
  &nbsp;
  &nbsp;
 <a href="https://www.linkedin.com/in/oğuzhan-beyaz-150ba21a1/"><img width="150" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Material Bread logo"></a>
+ &nbsp;
+ &nbsp;
+ &nbsp;
+<a href="https://www.linkedin.com/in/oğuzhan-beyaz-150ba21a1/"><img width="150" src="https://user-images.githubusercontent.com/56650405/197898308-7d8566f9-9410-4b3b-a722-e694c98c5377.png" alt="Material Bread logo"></a>
 </p>
 
 <p>
