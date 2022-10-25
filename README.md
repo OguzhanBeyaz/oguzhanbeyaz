@@ -21,7 +21,7 @@ I studied Information Technologies in High School, Web Design and then graduated
  &nbsp;
  &nbsp;
  &nbsp;
-<a href="https://www.linkedin.com/in/oğuzhan-beyaz-150ba21a1/"><img width="150" src="https://user-images.githubusercontent.com/56650405/197898308-7d8566f9-9410-4b3b-a722-e694c98c5377.png" alt="Material Bread logo"></a>
+<a href="https://www.linkedin.com/in/oğuzhan-beyaz-150ba21a1/"><img width="150" src="https://camo.githubusercontent.com/8657e139b67c491c5a9bcc434735fa89f1aea8ed95a25d8a250f119a67480c54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Material Bread logo"></a>
 </p>
 
 <p>
