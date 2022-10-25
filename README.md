@@ -1,4 +1,4 @@
-<h1><p align="center">
+<h1><p align="center" color="red">
 Hello👋🏻 I'm Oğuzhan
 </p></h1>
 
