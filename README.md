@@ -8,7 +8,7 @@ Lisede Bilişim Teknolojileri bölümü Web Tasarım alanını okudum daha sonra
 - 🎸 Gitarist
 - 📌 Kastamonu
 
-<div style="text-align: center" > ![giphy](https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif) </div>
+![giphy](https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif)
 
 <!---
 oguzhanbeyaz/oguzhanbeyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
