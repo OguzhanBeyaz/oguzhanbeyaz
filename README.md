@@ -10,7 +10,9 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 🎸 Guitarist
 - 📌 Kastamonu
 
+<p align="center">
 ![giphy](https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif)
+</p>
 
 <!---
 oguzhanbeyaz/oguzhanbeyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
