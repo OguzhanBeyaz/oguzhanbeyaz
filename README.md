@@ -1,6 +1,6 @@
-<p align="center">
+<h1><p align="center">
 Hello👋🏻 I'm Oğuzhan
-</p>
+</p></h1>
 
 I studied Information Technologies in High School, Web Design and then graduated from Kastamonu University, Computer Programming. I always try to improve and renew myself. I have a personality who likes to research, I try to add something to myself by developing small and large projects as much as I can. I created the website www.oguzhanbeyaz.com and I share the information I have gained and the projects I have done on this site.
 
