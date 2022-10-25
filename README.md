@@ -9,7 +9,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 🖥 I Learn As I Code I Code As I Learn
 - 🎸 Guitarist
 - 📌 Kastamonu 
-Bana mail ile ulaşmak istersen ✉ oguzhan_byaz@gmail.com
+- Bana mail ile ulaşmak istersen ✉ oguzhan_byaz@gmail.com
 
 
 
