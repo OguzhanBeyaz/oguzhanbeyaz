@@ -10,6 +10,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 🎸 Guitarist
 - 📌 Kastamonu 
 - ✉️ oguzhan_byaz@gmail.com
+- 📊 https://profile-summary-for-github.com/user/oguzhanbeyaz
 
 
 
