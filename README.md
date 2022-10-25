@@ -10,7 +10,12 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 🎸 Guitarist
 - 📌 Kastamonu
 
+
 <p align="center">
+<img width="100%" height="500" src="https://user-images.githubusercontent.com/56650405/197893664-1d1bd9f4-0a65-459b-824b-7427f4198c72.png" alt="Material Bread logo">
+</p>
+
+<p>
 <img width="100%" height="500" src="https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif" alt="Material Bread logo">
 </p>
 
