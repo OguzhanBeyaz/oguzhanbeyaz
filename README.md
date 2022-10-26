@@ -29,7 +29,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 </p>
 
 <p>
-<img width="300"  src="https://github-readme-stats.vercel.app/api?username=oguzhanbeyaz&show_icons=true&theme=radical" alt="Material Bread logo">
+<img width="350"  src="https://github-readme-stats.vercel.app/api?username=oguzhanbeyaz&show_icons=true&theme=radical" alt="Material Bread logo">
 </p>
 
 <p>
