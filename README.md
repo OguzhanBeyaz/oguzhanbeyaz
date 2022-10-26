@@ -41,7 +41,10 @@ I studied Information Technologies in High School, Web Design and then graduated
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
+ 
+ <br>
+ <br>
+ <br>
  <p align="center">
 <img width="490"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbeyaz&layout=compact&theme=vision-friendly-dark" alt="Material Bread logo">
 <img width="500"  src="http://github-readme-streak-stats.herokuapp.com?user=oguzhanbeyaz&theme=dark&background=000000" alt="Material Bread logo">
