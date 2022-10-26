@@ -53,12 +53,11 @@ I studied Information Technologies in High School, Web Design and then graduated
  <br>
  <p align="center">
 <img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbeyaz&layout=compact&theme=vision-friendly-dark" alt="Material Bread logo">
-<br>
-<br>
-<img width="500"  src="http://github-readme-streak-stats.herokuapp.com?user=oguzhanbeyaz&theme=dark&background=000000" alt="Material Bread logo">
-<br>
-<br>
-<img width="500"  src="https://github-readme-stats.vercel.app/api?username=oguzhanbeyaz&show_icons=true&theme=radical" alt="Material Bread logo">
+</p>
+
+<p align="center">
+<img width="250"  src="http://github-readme-streak-stats.herokuapp.com?user=oguzhanbeyaz&theme=dark&background=000000" alt="Material Bread logo">
+<img width="250"  src="https://github-readme-stats.vercel.app/api?username=oguzhanbeyaz&show_icons=true&theme=radical" alt="Material Bread logo">
 </p>
 
 <br>
