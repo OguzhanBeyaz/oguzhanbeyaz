@@ -36,7 +36,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 <a href="http://oguzhanbeyaz.com"><img width="100%" height="500" src="https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif" alt="Material Bread logo"></a>
 </p>
 
-<img align="right" src="https://camo.githubusercontent.com/090314fb1649e90f0dee707df4ab4b5d36d2e8589700c151e5f9f52faad3666a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61686d65747265636265722662675f636f6c6f723d324332463333267469746c655f636f6c6f723d32663830656426746578745f636f6c6f723d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetrecber&amp;bg_color=2C2F33&amp;title_color=2f80ed&amp;text_color=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
+<img align="right" src="https://camo.githubusercontent.com/090314fb1649e90f0dee707df4ab4b5d36d2e8589700c151e5f9f52faad3666a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61686d65747265636265722662675f636f6c6f723d324332463333267469746c655f636f6c6f723d32663830656426746578745f636f6c6f723d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbeyaz&amp;bg_color=2C2F33&amp;title_color=2f80ed&amp;text_color=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 
 <!---
 oguzhanbeyaz/oguzhanbeyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
