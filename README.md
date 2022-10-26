@@ -11,8 +11,6 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 📌 Kastamonu
 - 📧 oguzhan_byaz@gmail.com
 
-<br>
-
 
 <p align="center">
  <a href="https://www.instagram.com/oguzhan_byaz/" ><img width="120" height="30" src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Material Bread logo"></a>
@@ -29,8 +27,6 @@ I studied Information Technologies in High School, Web Design and then graduated
 <p align="center">
 <img width="118"  src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-Visitors-badge&countColor=darkred" alt="Material Bread logo">
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
