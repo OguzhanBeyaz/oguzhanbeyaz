@@ -28,7 +28,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 <img width="118"  src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-Visitors-badge&countColor=darkred" alt="Material Bread logo">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?oguzhanbeyaz=anuraghazra&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?[oguzhanbeyaz](https://profile-summary-for-github.com/user/oguzhanbeyaz=anuraghazra&show_icons=true&theme=radical)
 <p>
 <a href="http://oguzhanbeyaz.com"><img width="100%" height="500" src="https://user-images.githubusercontent.com/56650405/197854497-9c769eb1-7acf-4efb-8843-56c39c77195d.gif" alt="Material Bread logo"></a>
 </p>
