@@ -43,6 +43,9 @@ I studied Information Technologies in High School, Web Design and then graduated
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oguzhanbeyaz&theme=dark&background=000000)]
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>
 <img width="350"  src="https://github-readme-stats.vercel.app/api?username=oguzhanbeyaz&show_icons=true&theme=radical" alt="Material Bread logo">
