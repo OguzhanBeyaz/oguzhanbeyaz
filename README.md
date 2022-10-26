@@ -8,8 +8,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 - 💻 Programmer; The Organism That Turns Coffee Into Code
 - 🖥 I Learn As I Code I Code As I Learn
 - 🎸 Guitarist
-- 📌 Kastamonu 
-- 📊 https://profile-summary-for-github.com/user/oguzhanbeyaz
+- 📌 Kastamonu
 - 📧 oguzhan_byaz@gmail.com
 
 <p align="center">
