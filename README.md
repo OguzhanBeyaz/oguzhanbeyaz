@@ -28,7 +28,11 @@ I studied Information Technologies in High School, Web Design and then graduated
 <img width="118"  src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-Visitors-badge&countColor=darkred" alt="Material Bread logo">
 </p>
 
-<div>
+<br>
+<br>
+<br>
+
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -41,7 +45,7 @@ I studied Information Technologies in High School, Web Design and then graduated
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- 
+ </p>
  <br>
  <br>
  <br>
