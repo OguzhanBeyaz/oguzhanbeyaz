@@ -25,7 +25,7 @@ I studied Information Technologies in High School, Web Design and then graduated
 </p>
 
 <p align="center">
-<img width="115"  src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-Visitors-badge&countColor=darkred" alt="Material Bread logo">
+<img width="118"  src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-Visitors-badge&countColor=darkred" alt="Material Bread logo">
 </p>
 
 
